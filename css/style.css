@@ -20,6 +20,11 @@ body {
   font-weight: 300;
   overflow-x: hidden;
 }
+
+#more, #more1, #more2 {
+  display: none;
+}
+
 body.fh5co-offcanvas {
   overflow: hidden;
 }
