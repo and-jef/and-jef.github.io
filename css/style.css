@@ -1471,5 +1471,12 @@ figure {
   z-index: 9999;
   background: url(../images/hourglass.svg) center no-repeat #222222;
 }
+img.img-responsive {
+  height: 416.25px;
+}
+.space.beetwen {
+  height: 70px;
+}
+
 
 /*# sourceMappingURL=style.css.map */
